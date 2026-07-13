@@ -1,0 +1,6 @@
+a.out
+*.o
+*.exe
+.vscode/
+*.mp3
+output.txt
